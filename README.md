@@ -11,7 +11,13 @@
 #### Documentation
 * [jsdocs](http://xyz.com/api-docs)
 
+### Modules
+* validator.js
+* uuid-validate
 
+
+### Exported Values and Methods
+* model.js
   
 #### Tests
 Unit tests - npm test
