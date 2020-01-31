@@ -1,4 +1,4 @@
-const Categories = require('../categories/categories.js');
+const Categories = require('../models/categories/categories.js');
 
 describe('Categories Model', () => {
 
