@@ -25,6 +25,7 @@
   "homepage": "https://github.com/nataliealway-401-advanced-javascript/lab-04-data-modeling#readme",
   "dependencies": {
     "eslint": "^6.8.0",
+    "faker": "^4.1.0",
     "jest": "^24.9.0",
     "jsdocs": "^1.0.0",
     "lint": "^0.7.0",

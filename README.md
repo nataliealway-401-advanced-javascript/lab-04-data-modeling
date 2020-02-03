@@ -1,4 +1,4 @@
-# Lab-04
+# Lab 04
 
 ## Data Modeling
 
@@ -10,15 +10,11 @@
 
 
 #### Documentation
-* [api docs](http://xyz.com/api-docs) (API servers)
-* JSDoc Comment Required for all modules and functions in all .js files
-
-### Setup
-
+* [jsdoc](http://xyz.com/api-docs)
 
   
 #### Tests
 * npm test
 
 #### UML
-Link to an image of the UML for your application and response to events
+![UML](./assets/lab04UML.jpg)
